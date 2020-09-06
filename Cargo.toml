@@ -1,0 +1,9 @@
+[package]
+name = "dijkstra_scholten"
+version = "0.1.0"
+authors = ["Kevin Tran <kevintran@airmail.cc>"]
+edition = "2018"
+
+[dependencies]
+crossbeam = "0.7.3"
+rand = "0.7.3"
